@@ -20,6 +20,7 @@ int main() {
 	myLib.setx(5);
 
 	cout << "TestLibray ouput: " << myLib.toString() << " Number: " << myLib.getx() << endl;
+	cout << "End of programm" << endl;
 
 	return 0;
 }
